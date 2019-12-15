@@ -1,7 +1,7 @@
 # Jingle-Jam-Game-Jam
 Jingle Jam Game Jam 2019 Repository
 
-Idea was to grow some food in your backyard and take it to s local soup kitchen, and potentially make food with whatever you grew.
+Idea was to grow some food in your backyard and take it to a local soup kitchen, and potentially make food with whatever you grew.
 But dang scriptable objects are hard to work with in Unity.
 
 Lessons:
