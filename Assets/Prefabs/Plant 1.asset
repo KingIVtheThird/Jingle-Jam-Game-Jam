@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274dbf1c269818a4a835f88bdf55b8f1, type: 3}
+  m_Name: Plant 1
+  m_EditorClassIdentifier: 
+  emptySprite: {fileID: 21300028, guid: f229dde3743b8414b913befaa98490d3, type: 3}
+  plantedSprite: {fileID: 21300014, guid: f229dde3743b8414b913befaa98490d3, type: 3}
+  caredSprite: {fileID: 21300016, guid: f229dde3743b8414b913befaa98490d3, type: 3}
+  uncaredSprite: {fileID: 21300018, guid: f229dde3743b8414b913befaa98490d3, type: 3}
+  producingSprite: {fileID: 21300020, guid: f229dde3743b8414b913befaa98490d3, type: 3}
+  bountySprite: {fileID: 21300022, guid: f229dde3743b8414b913befaa98490d3, type: 3}
+  deadSprite: {fileID: 21300024, guid: f229dde3743b8414b913befaa98490d3, type: 3}

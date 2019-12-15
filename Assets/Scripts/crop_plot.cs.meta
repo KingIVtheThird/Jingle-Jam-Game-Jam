@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a73f6a67a9ac75d4e9b4aae0ad3f0324
+timeCreated: 1576275241
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - overlay: {fileID: 212291319953099930, guid: 913142625885b8e418bc4af85fed8a3f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
